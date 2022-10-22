@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;    
+}
+
+body, html{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.top{
+    display:   ;
+}
+
+.button{
+    width: 150px;
+}
+
+canvas{
+    width: 512px;
+    height: 512px;
+}
